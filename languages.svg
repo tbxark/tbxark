@@ -90,11 +90,11 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#00ADD8; width:35.988%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:35.985%;" class="progress-item"/>
                             
-                                <span style="background-color:#F05138; width:29.013%;" class="progress-item"/>
+                                <span style="background-color:#F05138; width:29.011%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:22.863%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:22.869%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:5.686%;" class="progress-item"/>
                             
@@ -134,7 +134,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">35.988%</span>
+                                <span class="percent">35.985%</span>
                             </li>
                         
                             <li>
@@ -143,7 +143,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Swift</span>
-                                <span class="percent">29.013%</span>
+                                <span class="percent">29.011%</span>
                             </li>
                         
                             <li>
@@ -152,7 +152,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">22.863%</span>
+                                <span class="percent">22.869%</span>
                             </li>
                         
                             <li>
