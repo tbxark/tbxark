@@ -90,7 +90,7 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#00ADD8; width:44.178%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:44.179%;" class="progress-item"/>
                             
                                 <span style="background-color:#F05138; width:25.321%;" class="progress-item"/>
                             
@@ -134,7 +134,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">44.178%</span>
+                                <span class="percent">44.179%</span>
                             </li>
                         
                             <li>
