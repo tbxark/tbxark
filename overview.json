@@ -4,7 +4,7 @@
     {
       "icon": "star",
       "name": "Stars",
-      "value": "9489"
+      "value": "9491"
     },
     {
       "icon": "repo-forked",
@@ -14,7 +14,7 @@
     {
       "icon": "diff",
       "name": "Lines of code changed",
-      "value": "2000779"
+      "value": "2012953"
     },
     {
       "icon": "git-pull-request",
@@ -24,7 +24,7 @@
     {
       "icon": "repo-push",
       "name": "All-time contributions",
-      "value": "5917"
+      "value": "5928"
     },
     {
       "icon": "repo",
