@@ -9,22 +9,22 @@
     {
       "icon": "repo-forked",
       "name": "Forks",
-      "value": "1686"
+      "value": "1685"
     },
     {
       "icon": "diff",
       "name": "Lines of code changed",
-      "value": "2047676"
+      "value": "2047707"
     },
     {
       "icon": "git-pull-request",
       "name": "Total pull requests (2026)",
-      "value": "11"
+      "value": "12"
     },
     {
       "icon": "repo-push",
       "name": "All-time contributions",
-      "value": "6096"
+      "value": "6098"
     },
     {
       "icon": "repo",
