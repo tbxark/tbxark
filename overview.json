@@ -4,12 +4,12 @@
     {
       "icon": "star",
       "name": "Stars",
-      "value": "9524"
+      "value": "9523"
     },
     {
       "icon": "repo-forked",
       "name": "Forks",
-      "value": "1701"
+      "value": "1702"
     },
     {
       "icon": "diff",
@@ -24,7 +24,7 @@
     {
       "icon": "repo-push",
       "name": "All-time contributions",
-      "value": "6519"
+      "value": "6330"
     },
     {
       "icon": "repo",
