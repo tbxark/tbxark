@@ -2,122 +2,122 @@
   "languages": [
     {
       "name": "Go",
-      "size": 2905027,
+      "size": 2921352,
       "occurrences": 22,
       "color": "#00ADD8",
-      "proportion": 46.011883785040176
+      "proportion": 45.854159590291204
     },
     {
       "name": "TypeScript",
-      "size": 2473349,
+      "size": 2508124,
       "occurrences": 12,
       "color": "#3178c6",
-      "proportion": 39.174660596216604
+      "proportion": 39.368045400978566
     },
     {
       "name": "Swift",
       "size": 588181,
       "occurrences": 15,
       "color": "#F05138",
-      "proportion": 9.316029013351242
+      "proportion": 9.232213523730474
     },
     {
       "name": "JavaScript",
-      "size": 151177,
+      "size": 155157,
       "occurrences": 17,
       "color": "#f1e05a",
-      "proportion": 2.394448848486096
+      "proportion": 2.435377126601249
     },
     {
       "name": "Shell",
-      "size": 62114,
+      "size": 62326,
       "occurrences": 15,
       "color": "#89e051",
-      "proportion": 0.9838057096970134
+      "proportion": 0.9782820935732803
     },
     {
       "name": "Vue",
       "size": 53470,
       "occurrences": 2,
       "color": "#41b883",
-      "proportion": 0.8468958897752408
+      "proportion": 0.8392764423092015
     },
     {
       "name": "Makefile",
-      "size": 31930,
-      "occurrences": 26,
+      "size": 33957,
+      "occurrences": 27,
       "color": "#427819",
-      "proportion": 0.5057300497573114
+      "proportion": 0.532996262418058
     },
     {
       "name": "Go Template",
       "size": 17872,
       "occurrences": 3,
       "color": "#00ADD8",
-      "proportion": 0.2830694472052198
+      "proportion": 0.28052269640826727
     },
     {
       "name": "C",
       "size": 7319,
       "occurrences": 2,
       "color": "#555555",
-      "proportion": 0.11592352753441158
+      "proportion": 0.11488057380327373
     },
     {
       "name": "Dockerfile",
       "size": 6450,
       "occurrences": 9,
       "color": "#384d54",
-      "proportion": 0.10215968747054989
+      "proportion": 0.10124056579192725
     },
     {
       "name": "Ruby",
       "size": 5574,
       "occurrences": 8,
       "color": "#701516",
-      "proportion": 0.08828497642803801
+      "proportion": 0.08749068429832597
     },
     {
       "name": "Dart",
       "size": 5249,
       "occurrences": 1,
       "color": "#00B4AB",
-      "proportion": 0.08313739527642115
+      "proportion": 0.08238941547935288
     },
     {
       "name": "CMake",
       "size": 4205,
       "occurrences": 2,
       "color": "#DA3434",
-      "proportion": 0.06660178074630424
+      "proportion": 0.06600257041163629
     },
     {
       "name": "Objective-C",
       "size": 603,
       "occurrences": 1,
       "color": "#438eff",
-      "proportion": 0.009550742875153735
+      "proportion": 0.009464815685663897
     },
     {
       "name": "Java",
       "size": 559,
       "occurrences": 1,
       "color": "#b07219",
-      "proportion": 0.008853839580780992
+      "proportion": 0.008774182368633695
     },
     {
       "name": "C++",
       "size": 325,
       "occurrences": 1,
       "color": "#f34b7d",
-      "proportion": 0.005147581151616855
+      "proportion": 0.0051012688189730785
     },
     {
       "name": "Jinja",
       "size": 241,
       "occurrences": 1,
       "color": "#a52a22",
-      "proportion": 0.003817129407814345
+      "proportion": 0.0037827870319154214
     }
   ]
 }
