@@ -14,7 +14,7 @@
     {
       "icon": "diff",
       "name": "Lines of code changed",
-      "value": "3454257"
+      "value": "3454276"
     },
     {
       "icon": "git-pull-request",
@@ -24,7 +24,7 @@
     {
       "icon": "repo-push",
       "name": "All-time contributions",
-      "value": "6774"
+      "value": "6777"
     },
     {
       "icon": "repo",
