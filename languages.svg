@@ -96,7 +96,7 @@
                             
                                 <span style="background-color:#F05138; width:2.356%;" class="progress-item"/>
                             
-                                <span style="background-color:#000080; width:2.340%;" class="progress-item"/>
+                                <span style="background-color:#000080; width:2.341%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:0.678%;" class="progress-item"/>
                             
@@ -163,7 +163,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Lua</span>
-                                <span class="percent">2.340%</span>
+                                <span class="percent">2.341%</span>
                             </li>
                         
                             <li>
